@@ -1,0 +1,10 @@
+<?php
+namespace DummyNamespace;
+
+use Exception;
+use Adtech\Application\Cms\Controllers\AdtechController;
+
+class DummyClass extends AdtechController
+{
+
+}
