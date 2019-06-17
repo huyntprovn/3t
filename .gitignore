@@ -9,10 +9,11 @@ app/storage/
 # Laravel 5 & Lumen specific
 public/storage
 public/hot
-storage/*.key
+storage/
 .env.*.php
 .env.php
 .env
+.idea/
 Homestead.yaml
 Homestead.json
 
